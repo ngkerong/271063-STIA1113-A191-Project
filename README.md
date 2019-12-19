@@ -510,7 +510,7 @@ End
 
 ![flowchart](https://github.com/ngkerong/271063-STIA1113-A191-Project/blob/master/Flowchart%20Same-day%20Delivery.png)
 
-![flowchart](https://github.com/ngkerong/271063-STIA1113-A191-Project/blob/master/Flowchart%20Prepaid%20Box%20%26%20Envelope(Part%201).jpeg)
+![flowchart](https://github.com/ngkerong/271063-STIA1113-A191-Project/blob/master/Flowchart%20Prepaid%20Box%20%26%20Envelope(Part%201).png)
 
 ![flowchart](https://github.com/ngkerong/271063-STIA1113-A191-Project/blob/master/Flowchart%20Prepaid%20Box%20%26%20Envelope(Part%202).jpeg)
 
