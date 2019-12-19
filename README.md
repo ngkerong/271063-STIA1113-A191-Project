@@ -33,6 +33,7 @@ ELSE THEN
 	Exit.main(args).
 END IF
 Return main().
+
 Poslaju.main(args)
 Output
 Display the menu for Next-Day-Delivery
@@ -172,7 +173,8 @@ Call method Exit.main(args).
 Break.
 END SWITCH
 Return main().
-Poslaju.main(args);
+
+Samedaydelivery.main(args)
 Set grandLocal=0
 Set grandCross=0
 Start while (true) loop
@@ -486,6 +488,7 @@ True = calculate total+=arr3[row][1]
 row++
 False = Output: "TOTAL DUE: "
 Return display()
+
 Exit.main(args)
 Declare variable grand[i] and grandTotal.
 grand = {Poslaju.grand(), Samedaydelivery.grand(), PrepaidBEnvelope.grand(),PosEkspres.grand()}
