@@ -514,11 +514,11 @@ End
 
 ![flowchart](https://github.com/ngkerong/271063-STIA1113-A191-Project/blob/master/Flowchart%20Prepaid%20Box%20%26%20Envelope(Part%202).jpeg)
 
-![flowchart](https://github.com/ngkerong/271063-STIA1113-A191-Project/blob/master/Flowchart%20Prepaid%20Box%20%26%20Envelope(Part%203).jpeg
+![flowchart](https://github.com/ngkerong/271063-STIA1113-A191-Project/blob/master/Flowchart%20Prepaid%20Box%20%26%20Envelope(Part%203).jpeg)
 
-![flowchart](https://github.com/ngkerong/271063-STIA1113-A191-Project/blob/master/Flowchart%20Prepaid%20Box%20%26%20Envelope(Part%204).jpeg
+![flowchart](https://github.com/ngkerong/271063-STIA1113-A191-Project/blob/master/Flowchart%20Prepaid%20Box%20%26%20Envelope(Part%204).jpeg)
 
-![flowchart](https://github.com/ngkerong/271063-STIA1113-A191-Project/blob/master/Flowchart%20Prepaid%20Box%20%26%20Envelope(Part%205).jpeg
+![flowchart](https://github.com/ngkerong/271063-STIA1113-A191-Project/blob/master/Flowchart%20Prepaid%20Box%20%26%20Envelope(Part%205).jpeg)
 
 ![flowchart](https://github.com/ngkerong/271063-STIA1113-A191-Project/blob/master/Pos_Ekspres%20-Part1.png)
 
