@@ -534,4 +534,14 @@ End
 
 # Output
 
+![output](https://github.com/ngkerong/271063-STIA1113-A191-Project/blob/master/Output%20Main%20Menu.PNG)
 
+![output](https://github.com/ngkerong/271063-STIA1113-A191-Project/blob/master/Ouput%20Next-Day%20Delivey%20Menu.PNG)
+
+![output](https://github.com/ngkerong/271063-STIA1113-A191-Project/blob/master/Output%20Same-Day%20Delivery.PNG)
+
+![output](https://github.com/ngkerong/271063-STIA1113-A191-Project/blob/master/Output%20Prepaid%20Box%20%26%20Envelope.PNG)
+
+![output](https://github.com/ngkerong/271063-STIA1113-A191-Project/blob/master/Output%20Pos%20Ekspres.PNG)
+
+![output](https://github.com/ngkerong/271063-STIA1113-A191-Project/blob/master/Output%20Exit%20Menu.PNG)
